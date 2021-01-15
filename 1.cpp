@@ -1,8 +1,7 @@
 #include<iostream>
-//用于测试
+using namespace std;
+
 int main(){
-    printf("hello world");
+    cout<<"你好呀"<<endl;
+    return 0;
 }
-
-
-//测试哈
