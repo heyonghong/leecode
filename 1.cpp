@@ -22,10 +22,6 @@ using namespace std;
 *               
 **********************************************************************************/
 class Solution {
-/* 1
-给定一个整数数组 nums 
-和一个整数目标值 target，请你在该数组中找出 和为目标值 的那 两个 整数，并返回它们的数组下标。
- */
 public:
 /*     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int> result;
@@ -42,7 +38,6 @@ public:
             }
         }
         return result;
-
     } */
 /*         vector<int> twoSum(vector<int> &numbers, int target) {
         unordered_map<int, int> m;
@@ -74,7 +69,6 @@ public:
         }
         return result;
     }    
-
 };
 int main(){
     int b[] = {2,5,5,9};
@@ -87,4 +81,4 @@ int main(){
         cout<<result[i]<<endl;
     }
     return 0;
-} */
+}
